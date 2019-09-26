@@ -3,9 +3,9 @@
 ## Inspiration
 The solution for evaluating Twitter data to perform better business decisions is to keep tracking all relevant Twitter content about a brand in real-time, perform analysis as topics or issues emerge, and detect anomaly with alert. By monitoring brand mentions on Twitter, brands could inform enagement and deliver better experiences for their customers across the world.
 
-## Sample Output Plot
+## Sample Output Plots
 
-<img src="https://github.com/Chulong-Li/Twitter-Data-Sentiment-Analysis/blob/master/Figures/Complex.png" alt="Complex Dashboard" width="70%" height="70%">
+<img src="https://github.com/alibaghn/Real-time-Twitter-Sentiment-Analysis/Figures/plots.png" alt="plots" width="70%" height="70%">
 
 ## Get Started
 
