@@ -5,7 +5,7 @@ The solution for evaluating Twitter data to perform better business decisions is
 
 ## Sample Output Plots
 
-<img src="https://github.com/alibaghn/Real-time-Twitter-Sentiment-Analysis/Figures/plots.png" alt="plots" width="70%" height="70%">
+<img src="Figures/plots.png" alt="plots" width="70%" height="70%">
 
 ## Get Started
 
